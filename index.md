@@ -8,5 +8,5 @@ User interface implemented with [Vue 3](https://vuejs.org/) and [Naive UI](https
 
 [Code](https://github.com/h-line/s-01)
 
-[Demo](https://h-line.github.io)
+[Demo](https://h-line.github.io/s-01)
 
